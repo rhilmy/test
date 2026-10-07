@@ -505,14 +505,8 @@
         <mxCell id="zUZwyspC3oYNlN6QLwij-44" parent="zUZwyspC3oYNlN6QLwij-1" style="aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.router;" value="" vertex="1">
           <mxGeometry height="57.599999999999994" width="55.2" x="413" y="165" as="geometry" />
         </mxCell>
-        <mxCell id="zUZwyspC3oYNlN6QLwij-45" parent="zUZwyspC3oYNlN6QLwij-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ME9-D3-CBN" vertex="1">
-          <mxGeometry height="30" width="90" x="394.6" y="143" as="geometry" />
-        </mxCell>
         <mxCell id="TJckMSASABusGGUFS5t6-1" parent="zUZwyspC3oYNlN6QLwij-1" style="aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=light-dark(#FF6A00,#FF3333);strokeColor=none;shape=mxgraph.alibaba_cloud.router;" value="" vertex="1">
           <mxGeometry height="57.599999999999994" width="55.2" x="316.8" y="527" as="geometry" />
-        </mxCell>
-        <mxCell id="TJckMSASABusGGUFS5t6-2" parent="zUZwyspC3oYNlN6QLwij-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TSEL.SOE" vertex="1">
-          <mxGeometry height="30" width="90" x="302" y="585" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
